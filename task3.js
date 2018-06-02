@@ -12,4 +12,4 @@ for (var i = 1; i<=n; i++){
 		s = i;
 	}
 }
-process.stdout.write(s);
+console.log(s);

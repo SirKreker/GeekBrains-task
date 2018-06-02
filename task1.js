@@ -7,4 +7,4 @@ for (var i=1; i<n; i++){
         str1 +=str[i];
     }
 }
-process.stdout.write(str1);
+console.log(str1);
